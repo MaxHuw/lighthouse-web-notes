@@ -7,4 +7,4 @@ My repository for all the notes I, [Max](https://github.com/MaxHuw), have taken 
 ## Table of Contents
 
 * [Week 1](/Week-1)
-  * [Day 1](/Week-1/Day-1)t
+  * [Day 1](/Week-1/Day-1)

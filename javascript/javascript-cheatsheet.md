@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-* [Data Types](##data-types)
-  * [Primatives](###primatives)
-    * [Boolean](###Boolean)
-    * [Null](###Null)
-    * [Undefined](###Undefined)
-    * [Number](###Number)
-    * [String](###String)
-    * [Symbol](###Symbol)
+* [Data Types](#data-types)
+  * [Primatives](#primatives)
+    * [Boolean](#boolean)
+    * [Null](#null)
+    * [Undefined](#undefined)
+    * [Number](#number)
+    * [String](#string)
+    * [Symbol](####symbol)
 
 ## Data Types
 
@@ -43,24 +43,26 @@ A concatenation of two strings using the concatenation operator (+) or String.co
 ##### Examples
 
 ```javascript
-
 'string text'
 "string text"
 "中文 español Deutsch English देवनागरी العربية português বাংলা"
-
 ```
 
 Besides regular, printable characters, special characters can be encoded using escape notation:
 
 ```javascript
-\'      //Single Quote
-\"      //Double Quote
-\\      //Backslash
-\n      //New Line
-\r      //Carriage Return
-\v      //Vertical Tab
-\t      //Tab
-\b      //Backspace
+/* <- Open comments with
+
+\'      Single Quote
+\"      Double Quote
+\\      Backslash
+\n      New Line
+\r      Carriage Return
+\v      Vertical Tab
+\t      Tab
+\b      Backspace
+
+Close comments with -> */
 ```
 
 You can concatonate strings together with the + operator.
